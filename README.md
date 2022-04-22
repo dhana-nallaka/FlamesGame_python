@@ -1,5 +1,5 @@
 # Flames Game in Python
-This is the Flames Games which is developed in python.\
+This is the Flames Games which is developed in python by **Dhana Nallaka🤍**\
 Here the task is done with the help of dictionary.\
 First we take the names of two users who want to play the game as input\
 And then the internal logic is applied and we get the relationship between the two users based on the rules of the game
